@@ -22,78 +22,204 @@
           {
             "date": "2026-06-20",
             "slots": [
-              { "time": "07:30", "available": 5 },
-              { "time": "08:00", "available": 8 },
-              { "time": "08:30", "available": 6 },
-              { "time": "09:00", "available": 10 },
-              { "time": "09:30", "available": 7 },
-              { "time": "10:00", "available": 4 }
+              {
+                "time": "07:30",
+                "available": 5
+              },
+              {
+                "time": "08:00",
+                "available": 8
+              },
+              {
+                "time": "08:30",
+                "available": 6
+              },
+              {
+                "time": "09:00",
+                "available": 10
+              },
+              {
+                "time": "09:30",
+                "available": 7
+              },
+              {
+                "time": "10:00",
+                "available": 4
+              }
             ]
           },
           {
             "date": "2026-06-21",
             "slots": [
-              { "time": "07:30", "available": 3 },
-              { "time": "08:00", "available": 5 },
-              { "time": "08:30", "available": 8 },
-              { "time": "09:00", "available": 6 },
-              { "time": "09:30", "available": 9 },
-              { "time": "10:00", "available": 2 }
+              {
+                "time": "07:30",
+                "available": 3
+              },
+              {
+                "time": "08:00",
+                "available": 5
+              },
+              {
+                "time": "08:30",
+                "available": 8
+              },
+              {
+                "time": "09:00",
+                "available": 6
+              },
+              {
+                "time": "09:30",
+                "available": 9
+              },
+              {
+                "time": "10:00",
+                "available": 2
+              }
             ]
           },
           {
             "date": "2026-06-22",
             "slots": [
-              { "time": "07:30", "available": 10 },
-              { "time": "08:00", "available": 12 },
-              { "time": "08:30", "available": 8 },
-              { "time": "09:00", "available": 11 },
-              { "time": "09:30", "available": 7 },
-              { "time": "10:00", "available": 5 }
+              {
+                "time": "07:30",
+                "available": 10
+              },
+              {
+                "time": "08:00",
+                "available": 12
+              },
+              {
+                "time": "08:30",
+                "available": 8
+              },
+              {
+                "time": "09:00",
+                "available": 11
+              },
+              {
+                "time": "09:30",
+                "available": 7
+              },
+              {
+                "time": "10:00",
+                "available": 5
+              }
             ]
           },
           {
             "date": "2026-06-23",
             "slots": [
-              { "time": "07:30", "available": 6 },
-              { "time": "08:00", "available": 9 },
-              { "time": "08:30", "available": 7 },
-              { "time": "09:00", "available": 10 },
-              { "time": "09:30", "available": 8 },
-              { "time": "10:00", "available": 3 }
+              {
+                "time": "07:30",
+                "available": 6
+              },
+              {
+                "time": "08:00",
+                "available": 9
+              },
+              {
+                "time": "08:30",
+                "available": 7
+              },
+              {
+                "time": "09:00",
+                "available": 10
+              },
+              {
+                "time": "09:30",
+                "available": 8
+              },
+              {
+                "time": "10:00",
+                "available": 3
+              }
             ]
           },
           {
             "date": "2026-06-24",
             "slots": [
-              { "time": "07:30", "available": 4 },
-              { "time": "08:00", "available": 6 },
-              { "time": "08:30", "available": 5 },
-              { "time": "09:00", "available": 7 },
-              { "time": "09:30", "available": 8 },
-              { "time": "10:00", "available": 6 }
+              {
+                "time": "07:30",
+                "available": 4
+              },
+              {
+                "time": "08:00",
+                "available": 6
+              },
+              {
+                "time": "08:30",
+                "available": 5
+              },
+              {
+                "time": "09:00",
+                "available": 7
+              },
+              {
+                "time": "09:30",
+                "available": 8
+              },
+              {
+                "time": "10:00",
+                "available": 6
+              }
             ]
           },
           {
             "date": "2026-06-25",
             "slots": [
-              { "time": "07:30", "available": 7 },
-              { "time": "08:00", "available": 10 },
-              { "time": "08:30", "available": 9 },
-              { "time": "09:00", "available": 8 },
-              { "time": "09:30", "available": 6 },
-              { "time": "10:00", "available": 4 }
+              {
+                "time": "07:30",
+                "available": 7
+              },
+              {
+                "time": "08:00",
+                "available": 10
+              },
+              {
+                "time": "08:30",
+                "available": 9
+              },
+              {
+                "time": "09:00",
+                "available": 8
+              },
+              {
+                "time": "09:30",
+                "available": 6
+              },
+              {
+                "time": "10:00",
+                "available": 4
+              }
             ]
           },
           {
             "date": "2026-06-27",
             "slots": [
-              { "time": "07:30", "available": 5 },
-              { "time": "08:00", "available": 7 },
-              { "time": "08:30", "available": 6 },
-              { "time": "09:00", "available": 9 },
-              { "time": "09:30", "available": 5 },
-              { "time": "10:00", "available": 3 }
+              {
+                "time": "07:30",
+                "available": 5
+              },
+              {
+                "time": "08:00",
+                "available": 7
+              },
+              {
+                "time": "08:30",
+                "available": 6
+              },
+              {
+                "time": "09:00",
+                "available": 9
+              },
+              {
+                "time": "09:30",
+                "available": 5
+              },
+              {
+                "time": "10:00",
+                "available": 3
+              }
             ]
           }
         ]
@@ -111,45 +237,117 @@
           {
             "date": "2026-06-20",
             "slots": [
-              { "time": "07:30", "available": 4 },
-              { "time": "08:00", "available": 6 },
-              { "time": "08:30", "available": 8 },
-              { "time": "09:00", "available": 5 },
-              { "time": "09:30", "available": 7 },
-              { "time": "10:00", "available": 3 }
+              {
+                "time": "07:30",
+                "available": 4
+              },
+              {
+                "time": "08:00",
+                "available": 6
+              },
+              {
+                "time": "08:30",
+                "available": 8
+              },
+              {
+                "time": "09:00",
+                "available": 5
+              },
+              {
+                "time": "09:30",
+                "available": 7
+              },
+              {
+                "time": "10:00",
+                "available": 3
+              }
             ]
           },
           {
             "date": "2026-06-21",
             "slots": [
-              { "time": "07:30", "available": 6 },
-              { "time": "08:00", "available": 8 },
-              { "time": "08:30", "available": 5 },
-              { "time": "09:00", "available": 9 },
-              { "time": "09:30", "available": 6 },
-              { "time": "10:00", "available": 4 }
+              {
+                "time": "07:30",
+                "available": 6
+              },
+              {
+                "time": "08:00",
+                "available": 8
+              },
+              {
+                "time": "08:30",
+                "available": 5
+              },
+              {
+                "time": "09:00",
+                "available": 9
+              },
+              {
+                "time": "09:30",
+                "available": 6
+              },
+              {
+                "time": "10:00",
+                "available": 4
+              }
             ]
           },
           {
             "date": "2026-06-22",
             "slots": [
-              { "time": "07:30", "available": 8 },
-              { "time": "08:00", "available": 10 },
-              { "time": "08:30", "available": 7 },
-              { "time": "09:00", "available": 12 },
-              { "time": "09:30", "available": 9 },
-              { "time": "10:00", "available": 5 }
+              {
+                "time": "07:30",
+                "available": 8
+              },
+              {
+                "time": "08:00",
+                "available": 10
+              },
+              {
+                "time": "08:30",
+                "available": 7
+              },
+              {
+                "time": "09:00",
+                "available": 12
+              },
+              {
+                "time": "09:30",
+                "available": 9
+              },
+              {
+                "time": "10:00",
+                "available": 5
+              }
             ]
           },
           {
             "date": "2026-06-23",
             "slots": [
-              { "time": "07:30", "available": 5 },
-              { "time": "08:00", "available": 7 },
-              { "time": "08:30", "available": 6 },
-              { "time": "09:00", "available": 8 },
-              { "time": "09:30", "available": 5 },
-              { "time": "10:00", "available": 2 }
+              {
+                "time": "07:30",
+                "available": 5
+              },
+              {
+                "time": "08:00",
+                "available": 7
+              },
+              {
+                "time": "08:30",
+                "available": 6
+              },
+              {
+                "time": "09:00",
+                "available": 8
+              },
+              {
+                "time": "09:30",
+                "available": 5
+              },
+              {
+                "time": "10:00",
+                "available": 2
+              }
             ]
           }
         ]
@@ -167,23 +365,59 @@
           {
             "date": "2026-06-20",
             "slots": [
-              { "time": "07:30", "available": 3 },
-              { "time": "08:00", "available": 5 },
-              { "time": "08:30", "available": 4 },
-              { "time": "09:00", "available": 6 },
-              { "time": "09:30", "available": 3 },
-              { "time": "10:00", "available": 2 }
+              {
+                "time": "07:30",
+                "available": 3
+              },
+              {
+                "time": "08:00",
+                "available": 5
+              },
+              {
+                "time": "08:30",
+                "available": 4
+              },
+              {
+                "time": "09:00",
+                "available": 6
+              },
+              {
+                "time": "09:30",
+                "available": 3
+              },
+              {
+                "time": "10:00",
+                "available": 2
+              }
             ]
           },
           {
             "date": "2026-06-23",
             "slots": [
-              { "time": "07:30", "available": 6 },
-              { "time": "08:00", "available": 8 },
-              { "time": "08:30", "available": 7 },
-              { "time": "09:00", "available": 9 },
-              { "time": "09:30", "available": 5 },
-              { "time": "10:00", "available": 4 }
+              {
+                "time": "07:30",
+                "available": 6
+              },
+              {
+                "time": "08:00",
+                "available": 8
+              },
+              {
+                "time": "08:30",
+                "available": 7
+              },
+              {
+                "time": "09:00",
+                "available": 9
+              },
+              {
+                "time": "09:30",
+                "available": 5
+              },
+              {
+                "time": "10:00",
+                "available": 4
+              }
             ]
           }
         ]
@@ -213,34 +447,88 @@
           {
             "date": "2026-06-20",
             "slots": [
-              { "time": "07:30", "available": 6 },
-              { "time": "08:00", "available": 10 },
-              { "time": "08:30", "available": 8 },
-              { "time": "09:00", "available": 12 },
-              { "time": "09:30", "available": 9 },
-              { "time": "10:00", "available": 7 }
+              {
+                "time": "07:30",
+                "available": 6
+              },
+              {
+                "time": "08:00",
+                "available": 10
+              },
+              {
+                "time": "08:30",
+                "available": 8
+              },
+              {
+                "time": "09:00",
+                "available": 12
+              },
+              {
+                "time": "09:30",
+                "available": 9
+              },
+              {
+                "time": "10:00",
+                "available": 7
+              }
             ]
           },
           {
             "date": "2026-06-21",
             "slots": [
-              { "time": "07:30", "available": 8 },
-              { "time": "08:00", "available": 12 },
-              { "time": "08:30", "available": 10 },
-              { "time": "09:00", "available": 14 },
-              { "time": "09:30", "available": 11 },
-              { "time": "10:00", "available": 6 }
+              {
+                "time": "07:30",
+                "available": 8
+              },
+              {
+                "time": "08:00",
+                "available": 12
+              },
+              {
+                "time": "08:30",
+                "available": 10
+              },
+              {
+                "time": "09:00",
+                "available": 14
+              },
+              {
+                "time": "09:30",
+                "available": 11
+              },
+              {
+                "time": "10:00",
+                "available": 6
+              }
             ]
           },
           {
             "date": "2026-06-22",
             "slots": [
-              { "time": "07:30", "available": 10 },
-              { "time": "08:00", "available": 15 },
-              { "time": "08:30", "available": 12 },
-              { "time": "09:00", "available": 16 },
-              { "time": "09:30", "available": 13 },
-              { "time": "10:00", "available": 8 }
+              {
+                "time": "07:30",
+                "available": 10
+              },
+              {
+                "time": "08:00",
+                "available": 15
+              },
+              {
+                "time": "08:30",
+                "available": 12
+              },
+              {
+                "time": "09:00",
+                "available": 16
+              },
+              {
+                "time": "09:30",
+                "available": 13
+              },
+              {
+                "time": "10:00",
+                "available": 8
+              }
             ]
           }
         ]
@@ -258,27 +546,83 @@
           {
             "date": "2026-06-21",
             "slots": [
-              { "time": "07:30", "available": 5 },
-              { "time": "08:00", "available": 8 },
-              { "time": "08:30", "available": 6 },
-              { "time": "09:00", "available": 10 },
-              { "time": "09:30", "available": 7 },
-              { "time": "10:00", "available": 4 }
+              {
+                "time": "07:30",
+                "available": 5
+              },
+              {
+                "time": "08:00",
+                "available": 8
+              },
+              {
+                "time": "08:30",
+                "available": 6
+              },
+              {
+                "time": "09:00",
+                "available": 10
+              },
+              {
+                "time": "09:30",
+                "available": 7
+              },
+              {
+                "time": "10:00",
+                "available": 4
+              }
             ]
           },
           {
             "date": "2026-06-24",
             "slots": [
-              { "time": "07:30", "available": 7 },
-              { "time": "08:00", "available": 11 },
-              { "time": "08:30", "available": 9 },
-              { "time": "09:00", "available": 13 },
-              { "time": "09:30", "available": 10 },
-              { "time": "10:00", "available": 5 }
+              {
+                "time": "07:30",
+                "available": 7
+              },
+              {
+                "time": "08:00",
+                "available": 11
+              },
+              {
+                "time": "08:30",
+                "available": 9
+              },
+              {
+                "time": "09:00",
+                "available": 13
+              },
+              {
+                "time": "09:30",
+                "available": 10
+              },
+              {
+                "time": "10:00",
+                "available": 5
+              }
             ]
           }
         ]
       }
     ]
+  },
+  {
+    "name": "测试体检中心",
+    "description": "专业的体检机构，提供优质服务",
+    "contactPhone": "400-123-4567",
+    "contactEmail": "",
+    "status": "active",
+    "stores": [
+      {
+        "id": "1",
+        "name": "朝阳门店",
+        "address": "",
+        "district": "",
+        "phone": "",
+        "businessHours": "",
+        "dates": []
+      }
+    ],
+    "id": "inst-1781741377754",
+    "createdAt": "2026-06-18T00:09:37.754Z"
   }
 ]

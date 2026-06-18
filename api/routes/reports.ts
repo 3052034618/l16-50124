@@ -1,5 +1,6 @@
 import { Router, Request, Response } from 'express';
 import { ReportService } from '../services/report.service.js';
+import { AppointmentService } from '../services/appointment.service.js';
 import { authMiddleware, roleMiddleware } from '../middleware/auth.js';
 import type { Report, ApiResponse } from '../../shared/types.js';
 
@@ -61,12 +62,36 @@ router.post(
       return;
     }
 
+    const appointmentId = req.body.appointmentId;
+    if (!appointmentId) {
+      res.status(400).json({ success: false, error: '缺少预约ID' });
+      return;
+    }
+
+    const appointment = AppointmentService.getById(appointmentId);
+    if (!appointment) {
+      res.status(404).json({ success: false, error: '预约不存在' });
+      return;
+    }
+
+    if (appointment.institutionId !== req.user.institutionId) {
+      res.status(403).json({ success: false, error: '无权操作此预约' });
+      return;
+    }
+
     const reportData = {
       ...req.body,
       institutionId: req.user.institutionId,
+      institutionName: appointment.institutionName,
+      employeeId: appointment.employeeId,
+      employeeName: appointment.employeeName,
+      packageId: appointment.packageId,
+      packageName: appointment.packageName,
     };
 
     const newReport = ReportService.create(reportData);
+    AppointmentService.complete(appointmentId, newReport.id);
+
     res.status(201).json({ success: true, data: newReport });
   }
 );
