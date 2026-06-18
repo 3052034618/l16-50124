@@ -1,0 +1,130 @@
+[
+  {
+    "id": "hr-001",
+    "username": "hr_admin",
+    "name": "张敏",
+    "role": "hr",
+    "department": "人力资源部",
+    "phone": "13800000001",
+    "email": "zhangmin@company.com",
+    "avatar": null,
+    "gender": "female",
+    "age": 32
+  },
+  {
+    "id": "emp-001",
+    "username": "zhangsan",
+    "name": "张三",
+    "role": "employee",
+    "department": "技术部",
+    "phone": "13900000001",
+    "email": "zhangsan@company.com",
+    "avatar": null,
+    "gender": "male",
+    "age": 28
+  },
+  {
+    "id": "emp-002",
+    "username": "lisi",
+    "name": "李四",
+    "role": "employee",
+    "department": "市场部",
+    "phone": "13900000002",
+    "email": "lisi@company.com",
+    "avatar": null,
+    "gender": "female",
+    "age": 35
+  },
+  {
+    "id": "emp-003",
+    "username": "wangwu",
+    "name": "王五",
+    "role": "employee",
+    "department": "技术部",
+    "phone": "13900000003",
+    "email": "wangwu@company.com",
+    "avatar": null,
+    "gender": "male",
+    "age": 42
+  },
+  {
+    "id": "emp-004",
+    "username": "zhaoliu",
+    "name": "赵六",
+    "role": "employee",
+    "department": "财务部",
+    "phone": "13900000004",
+    "email": "zhaoliu@company.com",
+    "avatar": null,
+    "gender": "female",
+    "age": 30
+  },
+  {
+    "id": "emp-005",
+    "username": "sunqi",
+    "name": "孙七",
+    "role": "employee",
+    "department": "人事部",
+    "phone": "13900000005",
+    "email": "sunqi@company.com",
+    "avatar": null,
+    "gender": "male",
+    "age": 45
+  },
+  {
+    "id": "emp-006",
+    "username": "zhouba",
+    "name": "周八",
+    "role": "employee",
+    "department": "技术部",
+    "phone": "13900000006",
+    "email": "zhouba@company.com",
+    "avatar": null,
+    "gender": "male",
+    "age": 26
+  },
+  {
+    "id": "emp-007",
+    "username": "wujiu",
+    "name": "吴九",
+    "role": "employee",
+    "department": "市场部",
+    "phone": "13900000007",
+    "email": "wujiu@company.com",
+    "avatar": null,
+    "gender": "female",
+    "age": 38
+  },
+  {
+    "id": "emp-008",
+    "username": "zhengshi",
+    "name": "郑十",
+    "role": "employee",
+    "department": "财务部",
+    "phone": "13900000008",
+    "email": "zhengshi@company.com",
+    "avatar": null,
+    "gender": "male",
+    "age": 50
+  },
+  {
+    "id": "ins-001",
+    "username": "meinian_admin",
+    "name": "美年大健康管理员",
+    "role": "institution",
+    "phone": "010-88888888",
+    "email": "admin@meinian.com",
+    "avatar": null,
+    "institutionId": "inst-001"
+  },
+  {
+    "id": "ins-002",
+    "username": "aikang_admin",
+    "name": "爱康国宾管理员",
+    "role": "institution",
+    "phone": "010-66666666",
+    "email": "admin@aikang.com",
+    "avatar": null,
+    "institutionId": "inst-002"
+  }
+]

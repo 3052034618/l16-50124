@@ -1,0 +1,284 @@
+[
+  {
+    "id": "inst-001",
+    "name": "美年大健康体检中心",
+    "logoUrl": null,
+    "description": "国内知名专业体检机构，设备先进，医师团队专业",
+    "contactPhone": "400-100-0001",
+    "contactEmail": "service@meinian.com",
+    "status": "active",
+    "createdAt": "2025-01-10T00:00:00.000Z",
+    "stores": [
+      {
+        "id": "store-001",
+        "name": "北京朝阳门店",
+        "address": "北京市朝阳区建国路88号SOHO现代城A座3层",
+        "district": "朝阳区",
+        "phone": "010-88880001",
+        "businessHours": "周一至周六 7:30-17:00",
+        "latitude": 39.9142,
+        "longitude": 116.4831,
+        "dates": [
+          {
+            "date": "2026-06-20",
+            "slots": [
+              { "time": "07:30", "available": 5 },
+              { "time": "08:00", "available": 8 },
+              { "time": "08:30", "available": 6 },
+              { "time": "09:00", "available": 10 },
+              { "time": "09:30", "available": 7 },
+              { "time": "10:00", "available": 4 }
+            ]
+          },
+          {
+            "date": "2026-06-21",
+            "slots": [
+              { "time": "07:30", "available": 3 },
+              { "time": "08:00", "available": 5 },
+              { "time": "08:30", "available": 8 },
+              { "time": "09:00", "available": 6 },
+              { "time": "09:30", "available": 9 },
+              { "time": "10:00", "available": 2 }
+            ]
+          },
+          {
+            "date": "2026-06-22",
+            "slots": [
+              { "time": "07:30", "available": 10 },
+              { "time": "08:00", "available": 12 },
+              { "time": "08:30", "available": 8 },
+              { "time": "09:00", "available": 11 },
+              { "time": "09:30", "available": 7 },
+              { "time": "10:00", "available": 5 }
+            ]
+          },
+          {
+            "date": "2026-06-23",
+            "slots": [
+              { "time": "07:30", "available": 6 },
+              { "time": "08:00", "available": 9 },
+              { "time": "08:30", "available": 7 },
+              { "time": "09:00", "available": 10 },
+              { "time": "09:30", "available": 8 },
+              { "time": "10:00", "available": 3 }
+            ]
+          },
+          {
+            "date": "2026-06-24",
+            "slots": [
+              { "time": "07:30", "available": 4 },
+              { "time": "08:00", "available": 6 },
+              { "time": "08:30", "available": 5 },
+              { "time": "09:00", "available": 7 },
+              { "time": "09:30", "available": 8 },
+              { "time": "10:00", "available": 6 }
+            ]
+          },
+          {
+            "date": "2026-06-25",
+            "slots": [
+              { "time": "07:30", "available": 7 },
+              { "time": "08:00", "available": 10 },
+              { "time": "08:30", "available": 9 },
+              { "time": "09:00", "available": 8 },
+              { "time": "09:30", "available": 6 },
+              { "time": "10:00", "available": 4 }
+            ]
+          },
+          {
+            "date": "2026-06-27",
+            "slots": [
+              { "time": "07:30", "available": 5 },
+              { "time": "08:00", "available": 7 },
+              { "time": "08:30", "available": 6 },
+              { "time": "09:00", "available": 9 },
+              { "time": "09:30", "available": 5 },
+              { "time": "10:00", "available": 3 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "store-002",
+        "name": "北京海淀门店",
+        "address": "北京市海淀区中关村大街19号新中关购物中心4层",
+        "district": "海淀区",
+        "phone": "010-88880002",
+        "businessHours": "周一至周六 7:30-17:00",
+        "latitude": 39.9847,
+        "longitude": 116.3162,
+        "dates": [
+          {
+            "date": "2026-06-20",
+            "slots": [
+              { "time": "07:30", "available": 4 },
+              { "time": "08:00", "available": 6 },
+              { "time": "08:30", "available": 8 },
+              { "time": "09:00", "available": 5 },
+              { "time": "09:30", "available": 7 },
+              { "time": "10:00", "available": 3 }
+            ]
+          },
+          {
+            "date": "2026-06-21",
+            "slots": [
+              { "time": "07:30", "available": 6 },
+              { "time": "08:00", "available": 8 },
+              { "time": "08:30", "available": 5 },
+              { "time": "09:00", "available": 9 },
+              { "time": "09:30", "available": 6 },
+              { "time": "10:00", "available": 4 }
+            ]
+          },
+          {
+            "date": "2026-06-22",
+            "slots": [
+              { "time": "07:30", "available": 8 },
+              { "time": "08:00", "available": 10 },
+              { "time": "08:30", "available": 7 },
+              { "time": "09:00", "available": 12 },
+              { "time": "09:30", "available": 9 },
+              { "time": "10:00", "available": 5 }
+            ]
+          },
+          {
+            "date": "2026-06-23",
+            "slots": [
+              { "time": "07:30", "available": 5 },
+              { "time": "08:00", "available": 7 },
+              { "time": "08:30", "available": 6 },
+              { "time": "09:00", "available": 8 },
+              { "time": "09:30", "available": 5 },
+              { "time": "10:00", "available": 2 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "store-003",
+        "name": "北京西城门店",
+        "address": "北京市西城区金融街7号英蓝国际金融中心2层",
+        "district": "西城区",
+        "phone": "010-88880003",
+        "businessHours": "周一至周五 7:30-17:00",
+        "latitude": 39.9178,
+        "longitude": 116.3594,
+        "dates": [
+          {
+            "date": "2026-06-20",
+            "slots": [
+              { "time": "07:30", "available": 3 },
+              { "time": "08:00", "available": 5 },
+              { "time": "08:30", "available": 4 },
+              { "time": "09:00", "available": 6 },
+              { "time": "09:30", "available": 3 },
+              { "time": "10:00", "available": 2 }
+            ]
+          },
+          {
+            "date": "2026-06-23",
+            "slots": [
+              { "time": "07:30", "available": 6 },
+              { "time": "08:00", "available": 8 },
+              { "time": "08:30", "available": 7 },
+              { "time": "09:00", "available": 9 },
+              { "time": "09:30", "available": 5 },
+              { "time": "10:00", "available": 4 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "inst-002",
+    "name": "爱康国宾体检中心",
+    "logoUrl": null,
+    "description": "专业健康管理机构，提供全方位体检与健康管理服务",
+    "contactPhone": "400-100-0002",
+    "contactEmail": "service@aikang.com",
+    "status": "active",
+    "createdAt": "2025-01-12T00:00:00.000Z",
+    "stores": [
+      {
+        "id": "store-004",
+        "name": "北京国贸分院",
+        "address": "北京市朝阳区建国门外大街1号国贸商城3期B座5层",
+        "district": "朝阳区",
+        "phone": "010-66660001",
+        "businessHours": "周一至周日 7:30-18:00",
+        "latitude": 39.9087,
+        "longitude": 116.4605,
+        "dates": [
+          {
+            "date": "2026-06-20",
+            "slots": [
+              { "time": "07:30", "available": 6 },
+              { "time": "08:00", "available": 10 },
+              { "time": "08:30", "available": 8 },
+              { "time": "09:00", "available": 12 },
+              { "time": "09:30", "available": 9 },
+              { "time": "10:00", "available": 7 }
+            ]
+          },
+          {
+            "date": "2026-06-21",
+            "slots": [
+              { "time": "07:30", "available": 8 },
+              { "time": "08:00", "available": 12 },
+              { "time": "08:30", "available": 10 },
+              { "time": "09:00", "available": 14 },
+              { "time": "09:30", "available": 11 },
+              { "time": "10:00", "available": 6 }
+            ]
+          },
+          {
+            "date": "2026-06-22",
+            "slots": [
+              { "time": "07:30", "available": 10 },
+              { "time": "08:00", "available": 15 },
+              { "time": "08:30", "available": 12 },
+              { "time": "09:00", "available": 16 },
+              { "time": "09:30", "available": 13 },
+              { "time": "10:00", "available": 8 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "store-005",
+        "name": "北京中关村分院",
+        "address": "北京市海淀区海淀大街38号银科大厦6层",
+        "district": "海淀区",
+        "phone": "010-66660002",
+        "businessHours": "周一至周六 7:30-17:30",
+        "latitude": 39.9822,
+        "longitude": 116.3145,
+        "dates": [
+          {
+            "date": "2026-06-21",
+            "slots": [
+              { "time": "07:30", "available": 5 },
+              { "time": "08:00", "available": 8 },
+              { "time": "08:30", "available": 6 },
+              { "time": "09:00", "available": 10 },
+              { "time": "09:30", "available": 7 },
+              { "time": "10:00", "available": 4 }
+            ]
+          },
+          {
+            "date": "2026-06-24",
+            "slots": [
+              { "time": "07:30", "available": 7 },
+              { "time": "08:00", "available": 11 },
+              { "time": "08:30", "available": 9 },
+              { "time": "09:00", "available": 13 },
+              { "time": "09:30", "available": 10 },
+              { "time": "10:00", "available": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
